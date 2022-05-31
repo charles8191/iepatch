@@ -1,0 +1,6 @@
+---
+IEPatch
+ for Windows 11
+---
+
+Windows 11 removed Internet Explorer from the system. But there is a way to open it, and it uses IE's API. Simply run the Run Me script, and then you can find Internet Explorer in the Start Menu. **Although it looks broken, you can type addresses into the URL box.**
